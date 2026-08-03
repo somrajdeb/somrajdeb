@@ -48,7 +48,7 @@ export const timeline = [
   },
   {
     year: "Current goal",
-    items: ["Software Engineering Internship at top product companies"],
+    items: ["Software Engineering Internship at top MNCs"],
   },
 ];
 
