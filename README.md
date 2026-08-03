@@ -1,452 +1,270 @@
-# Somraj's Engineering Studio
+# 🚀 Somraj Deb – Software Engineering Portfolio
 
-Build a world-class, production-ready, premium personal website for Somraj Deb, a Software Engineer, Full-Stack Developer, and AI Automation Developer. This website should not resemble a generic developer portfolio or template. It should feel like the personal website of an engineer working at companies such as Stripe, OpenAI, Anthropic, Linear, Vercel, Apple, or Notion.
+![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge)
+![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
+![Vercel](https://img.shields.io/badge/Hosted_on-Vercel-black?style=for-the-badge&logo=vercel)
 
-The design philosophy should be inspired by:
+## 🌐 Live Website
 
- Stripe
+**🔗 https://somrajdeb.vercel.app/**
 
- Linear
+---
 
- Vercel
+# 👋 About
 
- Apple
+Welcome to my personal portfolio website.
 
- Raycast
+I'm **Somraj Deb**, a Software Engineering student passionate about building scalable software, backend systems, AI-powered applications, and modern web experiences.
 
- Notion
+This portfolio showcases my:
 
- Framer
+- Software Engineering projects
+- AI Automation systems
+- Internship experience
+- Technical skills
+- Certifications
+- Resume
+- Contact information
 
- Anthropic
+The goal of this website is to provide recruiters, engineers, and potential clients with a complete overview of my work and technical capabilities.
 
-The overall experience should be clean, minimal, premium, and timeless. Avoid flashy gradients, excessive animations, neon colors, gaming aesthetics, or cluttered layouts. The focus should be on engineering excellence, clarity, and professionalism.
+---
 
-Use:
+# ✨ Features
 
- React
+- Modern responsive UI
+- Smooth animations
+- Mobile-first design
+- Fast loading performance
+- Project showcase
+- Skills section
+- Experience timeline
+- Resume download
+- Contact form
+- Dark theme
+- SEO friendly
 
- TypeScript
+---
 
- Tailwind CSS
+# 🛠 Tech Stack
 
- Framer Motion
+### Frontend
 
- Lucide Icons
+- React
+- TypeScript
+- Tailwind CSS
+- HTML5
+- CSS3
 
-The entire website must be fully responsive for desktop, tablet, and mobile devices.
+### Deployment
 
-The design should use generous whitespace, large typography, subtle micro-interactions, smooth scrolling, soft shadows, rounded cards, and elegant transitions.
+- Vercel
 
-Use a monochrome design with a primary accent color similar to Stripe's indigo (#635BFF). Support both light mode and dark mode with a seamless theme toggle.
+### Development Tools
 
-Hero Section
+- Git
+- GitHub
+- VS Code
 
-Display my professional photograph prominently on the right side with a subtle floating effect and soft shadow.
+---
 
-On the left display:
+# 📂 Featured Projects
 
-Somraj Deb
+## 🤖 AI Voice Receptionist
 
-Software Engineer
+An AI-powered business receptionist capable of handling customer calls, booking appointments, and automating business workflows.
 
-Full-Stack Developer
+### Technologies
 
-AI Automation Developer
+- React
+- TypeScript
+- n8n
+- Retell AI
+- Google Calendar API
 
-Below that display:
+Features:
 
-Building scalable software, intelligent automation systems, and modern web applications.
+- AI Voice Calling
+- Appointment Scheduling
+- Calendar Integration
+- Email Notifications
+- Workflow Automation
+- Dashboard
 
-Buttons:
+---
 
-Primary
+## 🏢 Visitor Management System
 
-View Projects
+Developed during my Software Engineering Internship at the National Informatics Centre (NIC).
 
-Secondary
+Features:
 
-Download Resume
+- Multi-role authentication
+- Visitor registration
+- Dynamic slot scheduling
+- REST APIs
+- Backend business logic
+- Spring Boot architecture
 
-Small badges underneath
+Technologies:
 
-Computer Engineering Student
+- Java
+- Spring Boot
+- JavaScript
 
-Software Engineering Intern
+---
 
-Open to Internships
+## 🛒 WordPress E-Commerce Website
 
-India
+A production-ready e-commerce platform built using WordPress and WooCommerce.
 
-Below that include social icons
+Features:
 
-GitHub
+- Product Management
+- Payment Gateway
+- Order Workflow
+- Responsive Design
+- SEO Optimization
 
-LinkedIn
+---
 
-Email
+## 🌐 Corporate Websites
 
-Resume
+Designed and developed multiple responsive corporate websites using modern frontend technologies.
 
-About Me
+Technologies:
 
-Create an elegant About section.
+- React
+- TypeScript
+- Tailwind CSS
 
-Include a professional biography explaining:
+---
 
- My engineering journey
+## 🌦 Weather Forecast Desktop Application
 
- Passion for software engineering
+Python desktop application that displays real-time weather information using external APIs.
 
- Interest in backend systems
+Technologies:
 
- Distributed systems
+- Python
+- Tkinter
+- Requests API
 
- AI
+---
 
- Cloud technologies
+# 💻 Technical Skills
 
- Building software used by millions
+### Languages
 
-Add a beautiful timeline
+- Java
+- Python
+- C++
+- JavaScript
+- SQL
 
-2024
+### Frontend
 
-Started Computer Engineering
+- React
+- TypeScript
+- HTML
+- CSS
+- Tailwind CSS
 
-2025
+### Backend
 
-Started Full Stack Development
+- Spring Boot
+- Node.js
+- Express.js
+- REST APIs
 
-Built AI Automation Systems
+### Database
 
-Built Corporate Websites
+- MongoDB
+- Supabase
+- SQL
 
-2026
+### AI & Automation
 
-Software Engineering Intern at NIC
+- n8n
+- Retell AI
+- Google Calendar API
+- AI Workflow Automation
 
-Built Visitor Management System
+### Tools
 
-Worked with Spring Boot
+- Git
+- GitHub
+- VS Code
+- Vercel
 
-REST APIs
+---
 
-Java
+# 📚 Education
 
-Current Goal
+**Bachelor of Engineering**
+Computer Science & Engineering
 
-Software Engineering Internship at top product companies
+Chandigarh University
 
-Experience
+Expected Graduation: **2028**
 
-Timeline layout.
+---
 
-Each company inside premium glass cards.
+# 💼 Experience
 
-Include
+### Software Engineering Intern
 
-Position
+**National Informatics Centre (NIC), Agartala**
 
-Company
+Worked on a multi-role Visitor Management System involving:
 
-Duration
+- Backend Development
+- Spring Boot
+- REST APIs
+- Scheduling Logic
+- JavaScript
 
-Responsibilities
+---
 
-Technologies used
+# 🎯 Areas of Interest
 
-Achievements
+- Software Engineering
+- Backend Development
+- Distributed Systems
+- Cloud Computing
+- AI Engineering
+- Full Stack Development
+- System Design
 
-Work Experience
+---
 
-Software Engineering Intern
+# 📄 Resume
 
-National Informatics Centre
+You can download my latest resume directly from the portfolio website.
 
-AI Automation Developer
+---
 
-Self Employed
+# 📬 Contact
 
-Full Stack Developer
+**Somraj Deb**
 
-Self Employed
+📧 somrajdeb70@gmail.com
 
-E-commerce Website Developer
+🌐 Portfolio:
+https://somrajdeb.vercel.app/
 
-Self Employed
+GitHub:
+https://github.com/<your-username>
 
-Projects
+LinkedIn:
+https://linkedin.com/in/<your-linkedin>
 
-Premium project showcase.
+---
 
-Every project gets a dedicated card.
+# ⭐ Repository
 
-Large screenshot.
+If you found this project useful or interesting, consider giving it a ⭐ on GitHub.
 
-Hover animation.
-
-Tech stack badges.
-
-Buttons
-
-GitHub
-
-Live Demo
-
-Read More
-
-Projects
-
-AI Voice Receptionist
-
-Visitor Management System
-
-Corporate Websites
-
-Weather Forecast Desktop Application
-
-WordPress E-commerce Platform
-
-Each project page should contain
-
-Overview
-
-Architecture
-
-Features
-
-Tech Stack
-
-Screenshots
-
-Challenges
-
-Lessons Learned
-
-Skills
-
-Interactive animated grid.
-
-Categories
-
-Programming Languages
-
-Java
-
-Python
-
-C++
-
-JavaScript
-
-TypeScript
-
-Frontend
-
-React
-
-HTML
-
-CSS
-
-Tailwind
-
-Backend
-
-Spring Boot
-
-Node.js
-
-REST APIs
-
-Databases
-
-SQL
-
-MongoDB
-
-Supabase
-
-Developer Tools
-
-Git
-
-GitHub
-
-VS Code
-
-n8n
-
-Certifications
-
-Premium cards.
-
-Display
-
-Certificate Name
-
-Issuer
-
-Issue Date
-
-Credential PDF
-
-View Certificate
-
-Resume
-
-Beautiful embedded PDF viewer.
-
-Sticky Download Resume button.
-
-GitHub
-
-Fetch GitHub profile dynamically.
-
-Display
-
-Pinned repositories
-
-Contribution graph
-
-Commit statistics
-
-Top Languages
-
-Total Stars
-
-Contact
-
-Professional contact section.
-
-Large CTA
-
-Let's Build Something Great Together.
-
-Buttons
-
-Email Me
-
-LinkedIn
-
-GitHub
-
-Download Resume
-
-Location
-
-Agartala, India
-
-Footer
-
-Minimal footer
-
-Built with React + TypeScript
-
-Designed by Somraj Deb
-
-Social icons
-
-Copyright
-
-Animations
-
-Use Framer Motion.
-
-Fade
-
-Slide
-
-Scale
-
-Blur
-
-Parallax scrolling
-
-Button ripple
-
-Hover elevation
-
-Scroll reveal
-
-Animated counters
-
-Page transitions
-
-No distracting animations.
-
-Everything should feel premium.
-
-Performance
-
-Target
-
-100 Accessibility
-
-100 Best Practices
-
-100 SEO
-
-95+ Performance
-
-SEO
-
-Generate
-
-robots.txt
-
-sitemap.xml
-
-OpenGraph
-
-Twitter Cards
-
-JSON-LD structured data
-
-Meta description
-
-Favicon
-
-Canonical URLs
-
-Additional Requirements
-
- Use my uploaded professional photograph throughout the website.
-
- The hero image should be optimized and responsive.
-
- Create smooth scrolling between sections.
-
- Add a custom 404 page that matches the site's design.
-
- Add loading animations and skeleton states where appropriate.
-
- Ensure the website is fully accessible (WCAG compliant).
-
- Do not use placeholder text or dummy projects. Structure the website so all content can be easily updated from a central data file.
-
- The final result should look like a premium personal website that could belong to a software engineer at Stripe, not a student portfolio.
-
-This project was built with [Lovable](https://lovable.dev).
-
-**Live app**: https://somrajdeb.lovable.app
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/dc4fe20a-7b45-4e05-b062-4230ffdf9a9e).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+Feedback and suggestions are always welcome.
