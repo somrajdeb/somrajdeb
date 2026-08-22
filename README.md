@@ -39,10 +39,6 @@ My interests span backend engineering, distributed systems, AI-powered automatio
 
 <div align="center">
 
-
----
-
-
 # 🌐 Connect With Me
 
 <div align="center">
@@ -53,6 +49,10 @@ My interests span backend engineering, distributed systems, AI-powered automatio
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somrajdeb70@gmail.com)
 
 </div>
+
+
+---
+
 
 # ⚙️ Tech Stack
 
