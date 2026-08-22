@@ -1,270 +1,195 @@
-# 🚀 Somraj Deb – Software Engineering Portfolio
+<div align="center">
 
-![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge)
-![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
-![Vercel](https://img.shields.io/badge/Hosted_on-Vercel-black?style=for-the-badge&logo=vercel)
+# SOMRAJ DEB
 
-## 🌐 Live Website
+### Software Engineer • Backend Developer • AI Automation
 
-**🔗 https://somrajdeb.vercel.app/**
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Scalable+Software;Java+%7C+Spring+Boot+%7C+React;Car+Enthusiast+%F0%9F%8F%8E%EF%B8%8F+Engineering+Mindset" alt="Typing SVG" />
 
----
+<br/>
 
-# 👋 About
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://somrajdeb.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somrajdeb)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somrajdeb70@gmail.com)
 
-Welcome to my personal portfolio website.
-
-I'm **Somraj Deb**, a Software Engineering student passionate about building scalable software, backend systems, AI-powered applications, and modern web experiences.
-
-This portfolio showcases my:
-
-- Software Engineering projects
-- AI Automation systems
-- Internship experience
-- Technical skills
-- Certifications
-- Resume
-- Contact information
-
-The goal of this website is to provide recruiters, engineers, and potential clients with a complete overview of my work and technical capabilities.
+</div>
 
 ---
 
-# ✨ Features
+<div align="center">
 
-- Modern responsive UI
-- Smooth animations
-- Mobile-first design
-- Fast loading performance
-- Project showcase
-- Skills section
-- Experience timeline
-- Resume download
-- Contact form
-- Dark theme
-- SEO friendly
+## 🏁 ENGINEERING IS MY RACING LINE
+
+![](https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge)
+![](https://img.shields.io/badge/ROLE-SOFTWARE_ENGINEER-2563EB?style=for-the-badge)
+![](https://img.shields.io/badge/CLASS-BACKEND_DEVELOPER-0EA5E9?style=for-the-badge)
+![](https://img.shields.io/badge/POWER-INFINITE-38BDF8?style=for-the-badge)
+
+</div>
 
 ---
 
-# 🛠 Tech Stack
+# 👋 About Me
 
-### Frontend
+I'm a **Bachelor of Engineering (Computer Science & Engineering)** student at **Chandigarh University**, passionate about building software that is scalable, reliable, and engineered for real-world impact.
 
-- React
-- TypeScript
-- Tailwind CSS
-- HTML5
-- CSS3
-
-### Deployment
-
-- Vercel
-
-### Development Tools
-
-- Git
-- GitHub
-- VS Code
+My interests span backend engineering, distributed systems, AI-powered automation, and modern full-stack web development. Outside software, I'm a **performance car enthusiast** who appreciates precision engineering, motorsport, and high-performance machines.
 
 ---
 
-# 📂 Featured Projects
-
-## 🤖 AI Voice Receptionist
-
-An AI-powered business receptionist capable of handling customer calls, booking appointments, and automating business workflows.
-
-### Technologies
-
-- React
-- TypeScript
-- n8n
-- Retell AI
-- Google Calendar API
-
-Features:
-
-- AI Voice Calling
-- Appointment Scheduling
-- Calendar Integration
-- Email Notifications
-- Workflow Automation
-- Dashboard
-
----
-
-## 🏢 Visitor Management System
-
-Developed during my Software Engineering Internship at the National Informatics Centre (NIC).
-
-Features:
-
-- Multi-role authentication
-- Visitor registration
-- Dynamic slot scheduling
-- REST APIs
-- Backend business logic
-- Spring Boot architecture
-
-Technologies:
-
-- Java
-- Spring Boot
-- JavaScript
-
----
-
-## 🛒 WordPress E-Commerce Website
-
-A production-ready e-commerce platform built using WordPress and WooCommerce.
-
-Features:
-
-- Product Management
-- Payment Gateway
-- Order Workflow
-- Responsive Design
-- SEO Optimization
-
----
-
-## 🌐 Corporate Websites
-
-Designed and developed multiple responsive corporate websites using modern frontend technologies.
-
-Technologies:
-
-- React
-- TypeScript
-- Tailwind CSS
-
----
-
-## 🌦 Weather Forecast Desktop Application
-
-Python desktop application that displays real-time weather information using external APIs.
-
-Technologies:
-
-- Python
-- Tkinter
-- Requests API
-
----
-
-# 💻 Technical Skills
+# ⚙️ Tech Stack
 
 ### Languages
 
-- Java
-- Python
-- C++
-- JavaScript
-- SQL
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Frontend
 
-- React
-- TypeScript
-- HTML
-- CSS
-- Tailwind CSS
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ### Backend
 
-- Spring Boot
-- Node.js
-- Express.js
-- REST APIs
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express)
 
-### Database
+### Database & Tools
 
-- MongoDB
-- Supabase
-- SQL
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ### AI & Automation
 
-- n8n
-- Retell AI
-- Google Calendar API
-- AI Workflow Automation
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Vercel
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Retell AI](https://img.shields.io/badge/Retell_AI-2563EB?style=flat-square)
+![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)
 
 ---
 
-# 📚 Education
+# 🚀 Featured Projects
 
-**Bachelor of Engineering**
-Computer Science & Engineering
+### 🤖 AI Voice Receptionist
 
-Chandigarh University
+> AI-powered receptionist capable of handling calls, booking appointments, and automating business workflows.
 
-Expected Graduation: **2028**
+**Tech:** React • TypeScript • n8n • Retell AI • Google Calendar API
+
+---
+
+### 🏢 Visitor Management System
+
+Developed during my Software Engineering Internship at the **National Informatics Centre (NIC)**.
+
+**Tech:** Java • Spring Boot • PostgreSQL • REST APIs
+
+---
+
+### 🛒 WordPress E-Commerce Platform
+
+Production-ready e-commerce website with payment integration and SEO optimization.
+
+**Tech:** WordPress • WooCommerce • PHP
+
+---
+
+### 🌐 Corporate Business Websites
+
+Multiple responsive corporate websites designed for real clients.
+
+**Tech:** React • TypeScript • Tailwind CSS
+
+---
+
+### 🌦 Weather Forecast Desktop App
+
+Real-time desktop weather application using external APIs.
+
+**Tech:** Python • Tkinter • Requests API
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=somrajdeb&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=somrajdeb&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somrajdeb&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Current Mission
+
+```text
+🏁 Goal        : Software Engineering Intern @ Global Tech Companies
+🔧 Focus       : Backend Systems • Distributed Systems • AI Automation
+💻 Building    : REST APIs • Full-Stack Products • Automation Pipelines
+🚗 Passion     : Performance Cars • Motorsport • Precision Engineering
+📍 Location    : Agartala, India
+🎓 Graduation  : 2028
+```
 
 ---
 
 # 💼 Experience
 
-### Software Engineering Intern
+## Software Engineering Intern
 
 **National Informatics Centre (NIC), Agartala**
 
-Worked on a multi-role Visitor Management System involving:
-
-- Backend Development
-- Spring Boot
-- REST APIs
-- Scheduling Logic
-- JavaScript
+- Developed RESTful APIs using Spring Boot
+- Built backend business logic for Visitor Management
+- Implemented scheduling workflows
+- Integrated PostgreSQL database
+- Worked with Java and JavaScript in a production environment
 
 ---
 
-# 🎯 Areas of Interest
+# 📚 Education
 
-- Software Engineering
-- Backend Development
-- Distributed Systems
-- Cloud Computing
-- AI Engineering
-- Full Stack Development
-- System Design
+**Bachelor of Engineering**  
+**Computer Science & Engineering**
+
+📍 Chandigarh University  
+🎓 Expected Graduation: **May 2028**
 
 ---
 
-# 📄 Resume
+# 🌐 Connect With Me
 
-You can download my latest resume directly from the portfolio website.
+<div align="center">
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://somrajdeb.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/somrajdeb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somrajdeb)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somrajdeb70@gmail.com)
 
-# 📬 Contact
-
-**Somraj Deb**
-
-📧 somrajdeb70@gmail.com
-
-🌐 Portfolio:
-https://somrajdeb.vercel.app/
-
-GitHub:
-https://github.com/<your-username>
-
-LinkedIn:
-https://linkedin.com/in/<your-linkedin>
+</div>
 
 ---
 
-# ⭐ Repository
+<div align="center">
 
-If you found this project useful or interesting, consider giving it a ⭐ on GitHub.
+### *"Performance isn't accidental — it's engineered."* 🏎️
 
-Feedback and suggestions are always welcome.
+<img src="https://komarev.com/ghpvc/?username=somrajdeb&style=for-the-badge&color=2563EB"/>
+
+</div>
