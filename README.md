@@ -36,6 +36,7 @@ I'm a **Bachelor of Engineering (Computer Science & Engineering)** student at **
 My interests span backend engineering, distributed systems, AI-powered automation, and modern full-stack web development. Outside software, I'm a **performance car enthusiast** who appreciates precision engineering, motorsport, and high-performance machines.
 
 ---
+<div align="center">
 
 # ⚙️ Tech Stack
 
@@ -74,6 +75,7 @@ My interests span backend engineering, distributed systems, AI-powered automatio
 ![Retell AI](https://img.shields.io/badge/Retell_AI-2563EB?style=flat-square)
 ![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)
 
+</div>
 ---
 
 # 🚀 Featured Projects
@@ -118,21 +120,6 @@ Real-time desktop weather application using external APIs.
 
 ---
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=somrajdeb&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=somrajdeb&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somrajdeb&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
