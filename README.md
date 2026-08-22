@@ -76,7 +76,7 @@ My interests span backend engineering, distributed systems, AI-powered automatio
 ![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)
 
 </div>
----
+
 
 # 🚀 Featured Projects
 
