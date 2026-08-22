@@ -36,7 +36,12 @@ I'm a **Bachelor of Engineering (Computer Science & Engineering)** student at **
 My interests span backend engineering, distributed systems, AI-powered automation, and modern full-stack web development. Outside software, I'm a **performance car enthusiast** who appreciates precision engineering, motorsport, and high-performance machines.
 
 ---
+
 <div align="center">
+
+
+---
+
 
 # 🌐 Connect With Me
 
@@ -168,9 +173,6 @@ Real-time desktop weather application using external APIs.
 
 📍 Chandigarh University  
 🎓 Expected Graduation: **May 2028**
-
----
-
 
 ---
 
